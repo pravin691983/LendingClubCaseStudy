@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Identification of risky loan applicants using EDA is the aim of this case study, so that such loans can be reduced thereby cutting down the amount of credit loss..
 
 
 ## Table of Contents
@@ -11,10 +11,19 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Identification of risky loan applicants using EDA is the aim of this case study, so that such loans can be reduced thereby cutting down the amount of credit loss.
+
+- This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. 
+Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). 
+Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. 
+In this case, the customers labelled as 'charged-off' are the 'defaulters'. If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
+Identification of such applicants using EDA is the aim of this case study.
+
+- Want to
+Understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
+The company can utilise this knowledge for its portfolio and risk assessment.
+
+- the Loan dataset that is being used in this case study
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
