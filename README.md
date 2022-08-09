@@ -28,10 +28,14 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Based on our analysis there is high probability if applicants taking loan:
+  - for 'debt consolidation' and have income of 31k -58k
+  - whose home ownership is 'MORTGAGE and have income of 31k -58k
+  - when grade is A and loan amount is between 31k -58k
+  - when dti is between 12-18 and loan amount is between 31k -58k
+  - maximum number of defaults occured when the loan was sanctioned/issued in Dec
+
+- We can see loan amount & interest rate, installment, repayment term, home ownership, loan purpose, residential state and income group plays an important role's to decide loan defaulters.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -51,7 +55,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@pravin691983] - feel free to contact me!
 
 
 <!-- Optional -->
