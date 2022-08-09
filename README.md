@@ -41,9 +41,12 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+- Numpy
+- Panda
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
