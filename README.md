@@ -1,4 +1,4 @@
-# Lending Club Case Study
+# Lending Club Case Study - Loan Dataset
 > Identification of risky loan applicants using EDA is the aim of this case study, so that such loans can be reduced thereby cutting down the amount of credit loss..
 
 
