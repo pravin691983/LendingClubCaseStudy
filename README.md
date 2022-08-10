@@ -14,7 +14,6 @@
 * [Approach](#approach)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -41,7 +40,7 @@ Identification of risky loan applicants using EDA is the aim of this case study,
   #### Understanding the Dataset
   - To gain insights from data we must look into each aspect of it very carefully. We will start with observing few rows and columns of data both from the starting and from the end.
   #### Preprocessing
-  - We will deal with erroneous and missing values of columns.
+  - We will deal with erroneous, missing and outliers values of columns.
   - Correlation between different columns
   - See how preprocessing have transformed our dataset.
   - Derive new data from existing data to get more insite 
@@ -52,14 +51,16 @@ Identification of risky loan applicants using EDA is the aim of this case study,
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Based on our analysis there is high probability if applicants taking loan:
-  - for 'debt consolidation' and have income of 31k -58k
-  - whose home ownership is 'MORTGAGE and have income of 31k -58k
-  - when grade is A and loan amount is between 31k -58k
-  - when dti is between 12-18 and loan amount is between 31k -58k
-  - maximum number of defaults occured when the loan was sanctioned/issued in Dec
+Based on our analysis there is high probability if applicants taking loan:
+ - for 'debt consolidation' and have income of 31k -58k
+ - whose home ownership is RENT and have income of 31k -58k
+ - when grade is B and loan amount is between 31k -58k
+ - when dti is between 12-18 and loan amount is between 31k -58k
+ - tenure of 36 months have have high chances to be defaulters
+ - maximum number of defaults occured when the loan was sanctioned/issued in Dec
 
-- We can see loan amount & interest rate, installment, repayment term, home ownership, loan purpose, residential state and income group plays an important role's to decide loan defaulters.
+
+### We can see loan amount & interest rate, installment, repayment term, home ownership, loan purpose, residential state and income group plays an important role's to decide loan defaulters.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -73,13 +74,6 @@ Identification of risky loan applicants using EDA is the aim of this case study,
 - Jupyter Notebook
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
 Created by [@pravin691983] - feel free to contact me!
